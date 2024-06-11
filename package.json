@@ -1,0 +1,24 @@
+{
+  "name": "com.machenn.unityautosave",
+  "version": "1.0.0",
+  "displayName": "UnityAutoSave",
+  "description": "This package use to unity auto save every 10m",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "Unity save",
+    "Scence Save",
+    "Save"
+  ],
+  "author": {
+    "name": "AllReal.io",
+    "email": "AllReal@mahchenn.com",
+    "url": "https://allreal.io/"
+  }
+}
